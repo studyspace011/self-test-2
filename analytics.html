@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics | Firoz Self Objective Test</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📈</text></svg>">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+</head>
+<body class="screen active" id="analytics-screen-body">
+    <div class="container">
+        <h2>📈 प्रगति विश्लेषण (Analytics)</h2>
+        
+        <div id="analytics-data-content">
+            <div class="analytics-summary">
+                <div class="summary-card">
+                    <h3>कुल प्रयास</h3>
+                    <div class="summary-value" id="total-tests">0</div>
+                </div>
+                <div class="summary-card">
+                    <h3>औसत स्कोर</h3>
+                    <div class="summary-value" id="average-score">0%</div>
+                </div>
+                <div class="summary-card">
+                    <h3>सबसे अच्छा स्कोर</h3>
+                    <div class="summary-value" id="best-score">0%</div>
+                </div>
+            </div>
+
+            <div class="charts-container">
+                <div class="chart-section">
+                    <h3>विषय के अनुसार प्रदर्शन</h3>
+                    <canvas id="subjectPerformanceChart"></canvas>
+                </div>
+                <div class="chart-section">
+                    <h3>स्कोर वितरण (पिछले 10 टेस्ट)</h3>
+                    <canvas id="scoreDistributionChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="recent-tests">
+                <h3>हाल के टेस्ट</h3>
+                <div id="recent-tests-list" class="recent-tests-list">
+                    </div>
+            </div>
+        </div>
+        
+        <div id="no-history-message" class="hidden" style="text-align: center; padding: 50px;">
+            <p style="font-size: 1.2rem; color: #fff;">अभी तक कोई टेस्ट रिकॉर्ड नहीं मिला।</p>
+        </div>
+
+        <div class="analytics-actions">
+            <button id="back-from-analytics" class="secondary-btn">🏠 वापस होम</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Analytics specific logic in script.js will run on this page too
+        document.addEventListener('DOMContentLoaded', () => {
+            const appInstance = new MCQTestApp();
+            appInstance.initializeAnalytics();
+            
+            document.getElementById('back-from-analytics').addEventListener('click', () => {
+                window.location.href = 'index.html';
+            });
+        });
+    </script>
+</body>
+</html>

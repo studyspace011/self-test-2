@@ -1,0 +1,133 @@
+{
+  "विषय": [
+    {
+      "नाम": "History",
+      "अध्याय": [
+        {"नाम": "Ch-1", "csv_path": "subjects/History/Ch-1.csv"},
+        {"नाम": "Ch-2", "csv_path": "subjects/History/Ch-2.csv"},
+        {"नाम": "Ch-3", "csv_path": "subjects/History/Ch-3.csv"},
+        {"नाम": "Ch-4", "csv_path": "subjects/History/Ch-4.csv"},
+        {"नाम": "Ch-5", "csv_path": "subjects/History/Ch-5.csv"},
+        {"नाम": "Ch-6", "csv_path": "subjects/History/Ch-6.csv"},
+        {"नाम": "Ch-7", "csv_path": "subjects/History/Ch-7.csv"},
+        {"नाम": "Ch-8", "csv_path": "subjects/History/Ch-8.csv"},
+        {"नाम": "Ch-9", "csv_path": "subjects/History/Ch-9.csv"},
+        {"नाम": "Ch-10", "csv_path": "subjects/History/Ch-10.csv"},
+        {"नाम": "Ch-11", "csv_path": "subjects/History/Ch-11.csv"},
+        {"नाम": "Ch-12", "csv_path": "subjects/History/Ch-12.csv"},
+        {"नाम": "Ch-13", "csv_path": "subjects/History/Ch-13.csv"},
+        {"नाम": "Ch-14", "csv_path": "subjects/History/Ch-14.csv"},
+        {"नाम": "Ch-15", "csv_path": "subjects/History/Ch-15.csv"}
+      ]
+    },
+    {
+      "नाम": "Geography",
+      "अध्याय": [
+        {"नाम": "Ch-1", "csv_path": "subjects/Geography/Ch-1.csv"},
+        {"नाम": "Ch-2", "csv_path": "subjects/Geography/Ch-2.csv"},
+        {"नाम": "Ch-3", "csv_path": "subjects/Geography/Ch-3.csv"},
+        {"नाम": "Ch-4", "csv_path": "subjects/Geography/Ch-4.csv"},
+        {"नाम": "Ch-5", "csv_path": "subjects/Geography/Ch-5.csv"},
+        {"नाम": "Ch-6", "csv_path": "subjects/Geography/Ch-6.csv"},
+        {"नाम": "Ch-7", "csv_path": "subjects/Geography/Ch-7.csv"},
+        {"नाम": "Ch-8", "csv_path": "subjects/Geography/Ch-8.csv"},
+        {"नाम": "Ch-9", "csv_path": "subjects/Geography/Ch-9.csv"},
+        {"नाम": "Ch-10", "csv_path": "subjects/Geography/Ch-10.csv"},
+        {"नाम": "Ch-11", "csv_path": "subjects/Geography/Ch-11.csv"},
+        {"नाम": "Ch-12", "csv_path": "subjects/Geography/Ch-12.csv"},
+        {"नाम": "Ch-13", "csv_path": "subjects/Geography/Ch-13.csv"},
+        {"नाम": "Ch-14", "csv_path": "subjects/Geography/Ch-14.csv"},
+        {"नाम": "Ch-15", "csv_path": "subjects/Geography/Ch-15.csv"},
+        {"नाम": "Ch-16", "csv_path": "subjects/Geography/Ch-16.csv"},
+        {"नाम": "Ch-17", "csv_path": "subjects/Geography/Ch-17.csv"},
+        {"नाम": "Ch-18", "csv_path": "subjects/Geography/Ch-18.csv"},
+        {"नाम": "Ch-19", "csv_path": "subjects/Geography/Ch-19.csv"},
+        {"नाम": "Ch-20", "csv_path": "subjects/Geography/Ch-20.csv"},
+        {"नाम": "Ch-21", "csv_path": "subjects/Geography/Ch-21.csv"},
+        {"नाम": "Ch-22", "csv_path": "subjects/Geography/Ch-22.csv"}
+      ]
+    },
+    {
+      "नाम": "Home Science",
+      "अध्याय": [
+        {"नाम": "Ch-1", "csv_path": "subjects/Home Science/Ch-1.csv"},
+        {"नाम": "Ch-2", "csv_path": "subjects/Home Science/Ch-2.csv"},
+        {"नाम": "Ch-3", "csv_path": "subjects/Home Science/Ch-3.csv"},
+        {"नाम": "Ch-4", "csv_path": "subjects/Home Science/Ch-4.csv"},
+        {"नाम": "Ch-5", "csv_path": "subjects/Home Science/Ch-5.csv"},
+        {"नाम": "Ch-6", "csv_path": "subjects/Home Science/Ch-6.csv"},
+        {"नाम": "Ch-7", "csv_path": "subjects/Home Science/Ch-7.csv"},
+        {"नाम": "Ch-8", "csv_path": "subjects/Home Science/Ch-8.csv"},
+        {"नाम": "Ch-9", "csv_path": "subjects/Home Science/Ch-9.csv"},
+        {"नाम": "Ch-10", "csv_path": "subjects/Home Science/Ch-10.csv"},
+        {"नाम": "Ch-11", "csv_path": "subjects/Home Science/Ch-11.csv"},
+        {"नाम": "Ch-12", "csv_path": "subjects/Home Science/Ch-12.csv"},
+        {"नाम": "Ch-13", "csv_path": "subjects/Home Science/Ch-13.csv"},
+        {"नाम": "Ch-14", "csv_path": "subjects/Home Science/Ch-14.csv"},
+        {"नाम": "Ch-15", "csv_path": "subjects/Home Science/Ch-15.csv"},
+        {"नाम": "Ch-16", "csv_path": "subjects/Home Science/Ch-16.csv"},
+        {"नाम": "Ch-17", "csv_path": "subjects/Home Science/Ch-17.csv"},
+        {"नाम": "Ch-18", "csv_path": "subjects/Home Science/Ch-18.csv"},
+        {"नाम": "Ch-19", "csv_path": "subjects/Home Science/Ch-19.csv"},
+        {"नाम": "Ch-20", "csv_path": "subjects/Home Science/Ch-20.csv"},
+        {"नाम": "Ch-21", "csv_path": "subjects/Home Science/Ch-21.csv"},
+        {"नाम": "Ch-22", "csv_path": "subjects/Home Science/Ch-22.csv"}
+      ]
+    },
+    {
+      "नाम": "Urdu",
+      "अध्याय": [
+        {"नाम": "Ch-1", "csv_path": "subjects/Urdu/Ch-1.csv"},
+        {"नाम": "Ch-2", "csv_path": "subjects/Urdu/Ch-2.csv"},
+        {"नाम": "Ch-3", "csv_path": "subjects/Urdu/Ch-3.csv"},
+        {"नाम": "Ch-4", "csv_path": "subjects/Urdu/Ch-4.csv"},
+        {"नाम": "Ch-5", "csv_path": "subjects/Urdu/Ch-5.csv"},
+        {"नाम": "Ch-6", "csv_path": "subjects/Urdu/Ch-6.csv"},
+        {"नाम": "Ch-7", "csv_path": "subjects/Urdu/Ch-7.csv"},
+        {"नाम": "Ch-8", "csv_path": "subjects/Urdu/Ch-8.csv"},
+        {"नाम": "Ch-9", "csv_path": "subjects/Urdu/Ch-9.csv"},
+        {"नाम": "Ch-10", "csv_path": "subjects/Urdu/Ch-10.csv"},
+        {"नाम": "Ch-11", "csv_path": "subjects/Urdu/Ch-11.csv"},
+        {"नाम": "Ch-12", "csv_path": "subjects/Urdu/Ch-12.csv"},
+        {"नाम": "Ch-13", "csv_path": "subjects/Urdu/Ch-13.csv"},
+        {"नाम": "Ch-14", "csv_path": "subjects/Urdu/Ch-14.csv"},
+        {"नाम": "Ch-15", "csv_path": "subjects/Urdu/Ch-15.csv"},
+        {"नाम": "Ch-16", "csv_path": "subjects/Urdu/Ch-16.csv"},
+        {"नाम": "Ch-17", "csv_path": "subjects/Urdu/Ch-17.csv"},
+        {"नाम": "Ch-18", "csv_path": "subjects/Urdu/Ch-18.csv"},
+        {"नाम": "Ch-19", "csv_path": "subjects/Urdu/Ch-19.csv"},
+        {"नाम": "Ch-20", "csv_path": "subjects/Urdu/Ch-20.csv"},
+        {"नाम": "Ch-21", "csv_path": "subjects/Urdu/Ch-21.csv"},
+        {"नाम": "Ch-22", "csv_path": "subjects/Urdu/Ch-22.csv"},
+        {"नाम": "Ch-23", "csv_path": "subjects/Urdu/Ch-23.csv"},
+        {"नाम": "Ch-24", "csv_path": "subjects/Urdu/Ch-24.csv"}
+      ]
+    },
+    {
+      "नाम": "English",
+      "अध्याय": [
+        {"नाम": "Ch-1", "csv_path": "subjects/English/Ch-1.csv"},
+        {"नाम": "Ch-2", "csv_path": "subjects/English/Ch-2.csv"},
+        {"नाम": "Ch-3", "csv_path": "subjects/English/Ch-3.csv"},
+        {"नाम": "Ch-4", "csv_path": "subjects/English/Ch-4.csv"},
+        {"नाम": "Ch-5", "csv_path": "subjects/English/Ch-5.csv"},
+        {"नाम": "Ch-6", "csv_path": "subjects/English/Ch-6.csv"},
+        {"नाम": "Ch-7", "csv_path": "subjects/English/Ch-7.csv"},
+        {"नाम": "Ch-8", "csv_path": "subjects/English/Ch-8.csv"},
+        {"नाम": "Ch-9", "csv_path": "subjects/English/Ch-9.csv"},
+        {"नाम": "Ch-10", "csv_path": "subjects/English/Ch-10.csv"},
+        {"नाम": "Ch-11", "csv_path": "subjects/English/Ch-11.csv"},
+        {"नाम": "Ch-12", "csv_path": "subjects/English/Ch-12.csv"},
+        {"नाम": "Ch-13", "csv_path": "subjects/English/Ch-13.csv"},
+        {"नाम": "Ch-14", "csv_path": "subjects/English/Ch-14.csv"},
+        {"नाम": "Ch-15", "csv_path": "subjects/English/Ch-15.csv"},
+        {"नाम": "Ch-16", "csv_path": "subjects/English/Ch-16.csv"},
+        {"नाम": "Ch-17", "csv_path": "subjects/English/Ch-17.csv"},
+        {"नाम": "Ch-18", "csv_path": "subjects/English/Ch-18.csv"},
+        {"नाम": "Ch-19", "csv_path": "subjects/English/Ch-19.csv"},
+        {"नाम": "Ch-20", "csv_path": "subjects/English/Ch-20.csv"},
+        {"नाम": "Ch-21", "csv_path": "subjects/English/Ch-21.csv"}
+      ]
+    }
+  ]
+}
